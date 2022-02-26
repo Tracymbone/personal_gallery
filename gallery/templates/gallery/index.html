@@ -1,0 +1,35 @@
+{%extends 'gallery/base.html' %}
+{%block content%}
+
+<div class="container-fluid">
+    {%for image in images%}
+    <div class="image" style="">
+        <a href="" data-bs-toggle="modal" data-bs-target="#all{{image.id}}">
+        <img style="width:50%" src="{{image.image.url}}" alt="">
+            </a>
+
+        <div class="modal fade" id="all{{image.id}}">
+            <div class="modal-dialog">
+                <div class="modal-content">
+                    <div class="modal-body">
+                                <img style="width:100%" src="{{image.image.url}}" alt="">
+                               <h1>Name: {{image.name}}</h1>
+
+                <h3>Location: {{image.location}}</h3>
+                <h3>Category:{{image.category}} </h3>
+                <p class="alert alert warning">description: {{image.description}}</p>
+                    </div>
+                    <div class="modal-footer">
+                        <button class="btn btn success" >Copy</button>
+                        <button class="btn btn secondary" data-bs-dismiss="modal">Close</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+    {%endfor%}
+</div>
+
+{%endblock%}
