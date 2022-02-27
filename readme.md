@@ -38,7 +38,7 @@ step5: python3 manage.py runserver -------- starting the server
 
 ## Running
 
-* python3 manage.py runserver 
+* 
 
 ### Cloning
 
