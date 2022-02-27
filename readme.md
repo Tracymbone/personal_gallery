@@ -41,6 +41,7 @@ In your terminal:
 ## Technologies Used
 
 * Python3.8
+* Django
 * Git
 * Heroku
 
