@@ -38,6 +38,9 @@ srep3:django-admin startproject personal.
 
 step4: python3 manage.py startapp app
 
+## Project Link
+
+you can view this project by clincking this link 
 
 ## Running
 
