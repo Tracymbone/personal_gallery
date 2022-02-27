@@ -32,7 +32,7 @@ View photos based on the location they were take
 
 * python3.8
 * pip
-* $ run.py
+
 
 ### Cloning
 
