@@ -30,9 +30,7 @@ View photos based on the location they were take
 
 ##### Prerequisites
 
-* python3.8
-
-
+* python3 manage.py runserver 
 
 ### Cloning
 
