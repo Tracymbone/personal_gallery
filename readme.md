@@ -31,8 +31,11 @@ View photos based on the location they were take
 ##### Prerequisites
 
 Step 1: virtualenv virtual
+
 step2: pip install django
-srep3:django-admin startproject personal .
+
+srep3:django-admin startproject personal.
+
 step4: python3 manage.py startapp app
 
 
