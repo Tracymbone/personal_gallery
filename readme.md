@@ -11,7 +11,7 @@ Software Developer
 
 ### Description
 
-
+ A personal gallery application that you display your photos for others to see.
 
 ### User Stories
 These are the behaviours/features that the application implements for use by a user.
