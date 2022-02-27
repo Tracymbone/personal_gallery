@@ -37,7 +37,7 @@ View photos based on the location they were take
 In your terminal:
 
  * $ git clone https://github.com/Tracymbone/personal_gallery/tree/master
- * $ cd Password_locker
+ * $ cd Personal_gallery
 ### Running the Application
 
 To run the application, in your terminal:
