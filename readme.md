@@ -25,16 +25,9 @@ Search for different categories of photos. (ie. Travel, Food)
 
 Copy a link to the photo to share with my friends.
 
-View photos based on the location they were taken.
-
-
-#### As a user I would like:
-
-* To create an account named users with my details - sign in and credential
-* Store my previous sign in credentials
-* Generate a credential for a new credential/user account
-
+View photos based on the location they were take
 ### SetUp / Installation Requirements
+
 ##### Prerequisites
 
 * python3.8
