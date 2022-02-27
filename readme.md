@@ -42,6 +42,7 @@ In your terminal:
 
 * Python3.8
 * Git
+* Heroku
 
 ### contact information
 
