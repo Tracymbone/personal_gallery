@@ -36,6 +36,8 @@ srep3:django-admin startproject personal .
 step4: python3 manage.py startapp app
 step5: python3 manage.py runserver -------- starting the server
 
+## Running
+
 * python3 manage.py runserver 
 
 ### Cloning
