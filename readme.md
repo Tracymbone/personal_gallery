@@ -38,14 +38,7 @@ In your terminal:
 
  * $ git clone https://github.com/Tracymbone/personal_gallery/tree/master
  * $ cd Personal_gallery
-### Running the Application
-
-To run the application, in your terminal:
- * $ #!/usr/bin/env python3.8
- * $ chmod +x run.py
- * $ ./run.py
-
-### Technologies Used
+## Technologies Used
 
 * Python3.8
 
