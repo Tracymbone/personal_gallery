@@ -31,7 +31,7 @@ View photos based on the location they were take
 ##### Prerequisites
 
 * python3.8
-* pip
+
 
 
 ### Cloning
