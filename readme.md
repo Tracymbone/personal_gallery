@@ -1,6 +1,6 @@
 # Project Name
 
-PASSWORD_LOCKER
+PERSONAL_GALLARY
 
 ## Authors Information
 
