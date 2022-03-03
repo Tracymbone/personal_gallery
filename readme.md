@@ -40,7 +40,7 @@ step4: python3 manage.py startapp app
 
 ## Project Link
 
-you can view this project by clincking this link https://mbonetracygallery.herokuapp.com/
+you can view this project by clicking this link [personal_gallery](https://mbonetracygallery.herokuapp.com/)
 
 ## Running
 
